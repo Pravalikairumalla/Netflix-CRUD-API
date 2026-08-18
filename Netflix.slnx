@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Netflix.API/Netflix.API.csproj" />
+  <Project Path="Netflix.DAL/Netflix.DAL.csproj" />
+  <Project Path="Netflix.DTO/Netflix.DTO.csproj" />
+</Solution>

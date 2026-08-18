@@ -1,0 +1,11 @@
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\bin\Debug\net10.0\Netflix.DTO.deps.json
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\bin\Debug\net10.0\Netflix.DTO.dll
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\bin\Debug\net10.0\Netflix.DTO.pdb
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.AssemblyInfoInputs.cache
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.AssemblyInfo.cs
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.dll
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\refint\Netflix.DTO.dll
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\Netflix.DTO.pdb
+C:\Users\Venu\Desktop\projects\WebApplication1\Netflix\Netflix\Netflix.DTO\obj\Debug\net10.0\ref\Netflix.DTO.dll
